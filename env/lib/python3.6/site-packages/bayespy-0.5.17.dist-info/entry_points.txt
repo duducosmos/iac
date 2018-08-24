@@ -1,0 +1,3 @@
+[nose.plugins]
+warnaserror = bayespy.testing:WarnAsError
+
